@@ -1,0 +1,10 @@
+$lib-s-variable-1: red !default;
+$lib-s-variable-2: blue !default;
+
+@mixin lib-t-mixin-1 {
+    color: green;
+}
+
+.test {
+    color: red;
+}

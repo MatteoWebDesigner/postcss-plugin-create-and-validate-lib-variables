@@ -1,0 +1,8 @@
+$lib-s-variable-1: orange;
+$lib-s-variable-3: orange;
+
+@import "lib.scss";
+
+.ciao {
+    color: $lib-s-variable-1;
+}
